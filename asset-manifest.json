@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-QuotationApp/static/css/main.aa5cae8f.css",
+    "main.js": "/React-QuotationApp/static/js/main.1244f6bd.js",
+    "index.html": "/React-QuotationApp/index.html",
+    "main.aa5cae8f.css.map": "/React-QuotationApp/static/css/main.aa5cae8f.css.map",
+    "main.1244f6bd.js.map": "/React-QuotationApp/static/js/main.1244f6bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5cae8f.css",
+    "static/js/main.1244f6bd.js"
+  ]
+}
